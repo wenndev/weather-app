@@ -12,6 +12,6 @@ Projeto de exibição de informações do clima de cidades.
 - SASS
 - VITE.JS
 
-** Link abrir o projeto  ↓
+**[ Link abrir o projeto  ↓
 
 https://weather-app-silk-two.vercel.app/
