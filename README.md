@@ -14,4 +14,4 @@ Projeto de exibição de informações do clima de cidades.
 
 **[ Link abrir o projeto  ↓
 
-https://weather-app-silk-two.vercel.app/
+> https://weather-app-silk-two.vercel.app/
