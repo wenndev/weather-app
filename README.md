@@ -1,4 +1,4 @@
-# weather-app
+# App Clima
 Projeto de exibição de informações do clima de cidades.
 
 ## Utilizando API'S
