@@ -5,5 +5,12 @@ Projeto de exibição de informações do clima de cidades.
 - Open Weather 
 - Country Flags 
 
-## Tecnologias -
+## Tecnologias 
+- HTML
+- CSS
+- JAVASCRIPT
+- SASS
+- VITE.JS
+
+
 https://weather-app-silk-two.vercel.app/
